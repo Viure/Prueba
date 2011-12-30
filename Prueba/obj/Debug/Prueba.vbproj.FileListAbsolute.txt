@@ -1,0 +1,12 @@
+E:\ProyectosJ3\Prueba\Prueba\bin\EntityFramework.xml
+E:\ProyectosJ3\Prueba\Prueba\bin\Prueba.dll
+E:\ProyectosJ3\Prueba\Prueba\bin\Prueba.pdb
+E:\ProyectosJ3\Prueba\Prueba\bin\Prueba.xml
+E:\ProyectosJ3\Prueba\Prueba\bin\EntityFramework.dll
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\ResolveAssemblyReference.cache
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\Prueba.Resources.resources
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\GenerateResource.read.1.tlog
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\GenerateResource.write.1.tlog
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\Prueba.dll
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\Prueba.xml
+E:\ProyectosJ3\Prueba\Prueba\obj\Debug\Prueba.pdb

@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="VB" MasterPageFile="~/Views/Shared/Site.Master" Inherits="System.Web.Mvc.ViewPage" %>
 
 <asp:Content ID="indexTitle" ContentPlaceHolderID="TitleContent" runat="server">
-    Página principal
+    Prueba
 </asp:Content>
 
 <asp:Content ID="indexContent" ContentPlaceHolderID="MainContent" runat="server">
